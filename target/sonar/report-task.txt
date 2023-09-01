@@ -1,6 +1,6 @@
-projectKey=devops_demo
+projectKey=test_app
 serverUrl=http://localhost:9099
 serverVersion=10.1.0.73491
-dashboardUrl=http://localhost:9099/dashboard?id=devops_demo
-ceTaskId=AYpPKby-5M4M7Km0oYn1
-ceTaskUrl=http://localhost:9099/api/ce/task?id=AYpPKby-5M4M7Km0oYn1
+dashboardUrl=http://localhost:9099/dashboard?id=test_app
+ceTaskId=AYpPXVWZ5M4M7Km0oYoA
+ceTaskUrl=http://localhost:9099/api/ce/task?id=AYpPXVWZ5M4M7Km0oYoA
